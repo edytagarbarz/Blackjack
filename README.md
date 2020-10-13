@@ -1,5 +1,5 @@
 # Blackjack
-Reinforcement learning algorithms for Blackjack game. Use main.py to train agent, simulate games and print percent of wins and draws.
+Reinforcement learning algorithms for Blackjack game. Use main.py to train agent, simulate games and print percentage of wins and draws.
 ```bash
 usage: main.py [-h] [-a ALGORITHM] [--epsilon EPSILON] [--alpha ALPHA]
                [--gamma GAMMA] [-e EPISODES] [-g GAMES]
